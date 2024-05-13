@@ -68,5 +68,5 @@ Projenin kullanımı oldukça basittir:
 3. Sayfadaki sorulara tıklayarak cevapları görebilirsiniz.
 4. İhtiyaç halinde, içeriği kendi projenize veya web sitenize entegre edebilirsiniz.
 
-
+<img src=https://github.com/YildirayParlak/FAQ-Section/blob/main/ScreenShots/ScreenShot1.png>
 
