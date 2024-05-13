@@ -71,6 +71,8 @@ Projenin kullanımı oldukça basittir:
 
 ## Sample Screenshots(Örnek Ekran Görüntüleri)
 
+---------------------------------------------------------
+
 <img src=https://github.com/YildirayParlak/FAQ-Section/blob/main/ScreenShots/ScreenShot1.png>
 <img src=https://github.com/YildirayParlak/FAQ-Section/blob/main/ScreenShots/ScreenShot2.png>
 <img src=https://github.com/YildirayParlak/FAQ-Section/blob/main/FAQ-Section-GIF/FAQ-Section-GIF.gif>
