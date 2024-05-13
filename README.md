@@ -68,5 +68,10 @@ Projenin kullanımı oldukça basittir:
 3. Sayfadaki sorulara tıklayarak cevapları görebilirsiniz.
 4. İhtiyaç halinde, içeriği kendi projenize veya web sitenize entegre edebilirsiniz.
 
+
+## Sample Screenshots(Örnek Ekran Görüntüleri)
+
 <img src=https://github.com/YildirayParlak/FAQ-Section/blob/main/ScreenShots/ScreenShot1.png>
+<img src=https://github.com/YildirayParlak/FAQ-Section/blob/main/ScreenShots/ScreenShot2.png>
+<img src=https://github.com/YildirayParlak/FAQ-Section/blob/main/FAQ-Section-GIF/FAQ-Section-GIF.gif>
 
